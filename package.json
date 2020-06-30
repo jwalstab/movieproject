@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jwalstab/movieproject.git"
+    "url": "git+https://github.com/jwalstab/movieproject"
   },
   "author": "Jay Walstab",
   "license": "ISC",
