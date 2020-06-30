@@ -1,0 +1,19 @@
+{
+  "name": "movieproject",
+  "version": "1.0.0",
+  "description": "Movie sharing service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwalstab/movieproject.git"
+  },
+  "author": "Jay Walstab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwalstab/movieproject/issues"
+  },
+  "homepage": "https://github.com/jwalstab/movieproject#readme"
+}
